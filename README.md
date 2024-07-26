@@ -1,6 +1,6 @@
 Welcome to my project about using LoRa technique with STM32F103C8T6.
 - There are others 2 branch in my repository, that is MASTER and SLAVE.
-- For the MASTER branch, I set up and programme for the transmit node, It will receive GPS signal from GPS module(Quectel L80-M39) and transmit via LoRa.
+- For the MASTER branch, I set up and develope for the transmit node, It will receive GPS signal from GPS module(Quectel L80-M39) and transmit via LoRa.
 - Next, for the SLAVE branch, that also my set up but use for receive signal from MASTER node and display it in the LCD 16x2 (with i2c module).
 - I using LORA library from:
   https://github.com/SMotlaq/LoRa/tree/master?fbclid=IwZXh0bgNhZW0CMTAAAR07GdoOCyXt8_d9Y_I7p44Sc2CIL0V0PH8Cm7YJXKeXMlnBAQmdb_MHYNM_aem_AY2NSFanzzq9Fuo8-GP09s07NCwS7mxoUd9qy1OV1a30vqOwYpQMlh7vMkdglJf1YBNWLOrk8lejAV5p1PG8x0Fa
