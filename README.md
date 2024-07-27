@@ -1,4 +1,4 @@
-Welcome to my project about using LoRa technique with STM32F103C8T6.
+## Welcome to my project about using LoRa technique with STM32F103C8T6.
 - There are others 2 branch in my repository, that is MASTER and SLAVE.
 - For the MASTER branch, I set up and develope for the transmit node, It will receive GPS signal from GPS module(Quectel L80-M39) and transmit via LoRa.
 - Next, for the SLAVE branch, that also my set up but use for receive signal from MASTER node and display it in the LCD 16x2 (with i2c module).
@@ -9,5 +9,6 @@ Welcome to my project about using LoRa technique with STM32F103C8T6.
 - And the last one, I follow a lot of step from this page to using LCD for my project:
   https://deepbluembedded.com/stm32-i2c-lcd-library-example-16x2-20x4-multiple-lcds/
 
--> My project will have some update in the future, maybe I wil send data to the server and build a LoRaWan network.
+## -> My project will have some update in the future, maybe I wil send data to the server and build a LoRaWan network.
   Thanks for reviewing!
+  
