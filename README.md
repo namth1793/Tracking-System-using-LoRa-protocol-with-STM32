@@ -1,5 +1,6 @@
 ## Welcome to my project about using LoRa technique with STM32F103C8T6.
-![451491303_506287805414361_3575618958314909936_n](https://github.com/user-attachments/assets/331aae95-1e15-49c9-b3dc-a2f1c7672c9f)
+### 1. System Diagram
+![System Diagram](https://github.com/user-attachments/assets/3b5479b7-bd71-481a-8bb9-c6b3bdf52dfe)
 - There are others 2 branch in my repository, they are MASTER and SLAVE.
 - For the MASTER branch, I set up and develope for the transmit node, It will receive GPS signal from GPS module(Quectel L80-M39) and transmit via LoRa.
 - Next, for the SLAVE branch, that also my set up but use for receive signal from MASTER node and display it in the LCD 16x2 (with i2c module).
@@ -9,6 +10,8 @@
   https://github.com/sztvka/stm32-nmea-gps-hal
 - And the last one, I follow a lot of step from this page to using LCD for my project:
   https://deepbluembedded.com/stm32-i2c-lcd-library-example-16x2-20x4-multiple-lcds/
+### 2. Result
+![451491303_506287805414361_3575618958314909936_n](https://github.com/user-attachments/assets/331aae95-1e15-49c9-b3dc-a2f1c7672c9f)
 
 ## -> My project will have some update in the future, maybe I wil send data to the server and build a LoRaWan network.
   Thanks for reviewing!
