@@ -1,4 +1,4 @@
-## Tracking Device using LoRa technique with STM32F103C8T6.
+## Tracking Device using LoRa technique with STM32
 ### 1. Problem Statement
 In recent years, the emergency communication in remote areas such as high mountain is often difficult due to lack of infrastructure. Traditional communication methods fail in these situations, delaying rescue operations and increasing the risk for those affected.
 ### 2. Proposed Solution
