@@ -18,6 +18,11 @@ In recent years, the emergency communication in remote areas such as high mounta
 ### 4. PCB Design
 ![2bfd8527-585f-440c-946b-e17004a13dbb-removebg-preview](https://github.com/user-attachments/assets/9d25eceb-a37e-4365-b408-b2bcb5c62a9b)
 
+### 5. References
+[1] RFM95 Datasheet(PDF) - HOPE Microelectronics CO., Ltd.
+[2] L80 Datasheet(PDF) - Quectel Wireless Solutions Co., Ltd.
+[3] STM32F103C8T6 Datasheet(PDF) - STMicroelectronics
+
 ## -> My project will have some update in the future, maybe I wil send data to the server and build a LoRaWan network.
   Thanks for reviewing!
 
