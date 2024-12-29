@@ -1,7 +1,7 @@
 ## Tracking Device using LoRa technique with STM32
-### There are others 2 branch in my repository, they are MASTER and SLAVE.
-### -> MASTER branch, I set up and develope for the transmit node, It will receive GPS signal from GPS module(Quectel L80-M39) and transmit via LoRa.
-### -> SLAVE branch, that also my set up but use for receive signal from MASTER node and display it in the LCD 16x2 (with i2c module).
+#### There are others 2 branch in my repository, they are MASTER and SLAVE.
+#### -> MASTER branch, I set up and develope for the transmit node, It will receive GPS signal from GPS module(Quectel L80-M39) and transmit via LoRa.
+#### -> SLAVE branch, that also my set up but use for receive signal from MASTER node and display it in the LCD 16x2 (with i2c module).
 ### 1. Problem Statement
 In recent years, the emergency communication in remote areas such as high mountain is often difficult due to lack of infrastructure. Traditional communication methods fail in these situations, delaying rescue operations and increasing the risk for those affected.
 ### 2. Proposed Solution
