@@ -10,3 +10,6 @@ Design and build an embedded device which can tracking the location of users whe
 - Use external drivers of LoRa module, GPS
 - Design PCB for tracking device with optimize dimension
 - Analysis and test product in a lot of cases.
+
+## 4. PCB Design
+![Image](https://github.com/user-attachments/assets/872c47e4-c8d2-4fa3-ac78-154d065836ed)
