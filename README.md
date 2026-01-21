@@ -1,6 +1,7 @@
 # Tracking System using LoRa Protocol with STM32
 
 This repository implements a **wireless tracking system** using the **LoRa protocol** and **STM32 microcontrollers**. The system is designed as a **point-to-point communication model**, consisting of a **MASTER node** (GPS transmitter) and a **SLAVE node** (data receiver and display).
+
 ![Image](https://github.com/user-attachments/assets/a618e6f6-584b-42c2-801e-b04147943972)
 
 ---
